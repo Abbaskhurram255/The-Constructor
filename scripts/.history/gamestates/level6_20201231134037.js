@@ -1,4 +1,4 @@
-let level5State = {
+let level6State = {
 
     create: function() {
         //Adding sprites
@@ -53,7 +53,7 @@ let level5State = {
             this.block8.position.x === 480 && this.block8.position.y === 240) {
             mechanics.showEndgameInterface();
         }
-    },
 
+    },
 
 };
